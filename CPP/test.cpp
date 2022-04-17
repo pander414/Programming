@@ -2,7 +2,7 @@
 #include<stdio.h>
 init manin()
 {
-    printf("Hello World this is Programming");
+    printf("Hello World this is Programming in C++");
     pringf("Hello git");
     return 0;
 }
